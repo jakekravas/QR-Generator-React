@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  text-align: center;
+  background-color: #1b2034;
+  color: #fff;
+}
+
+.app {
+  padding: 2rem 1rem;
+}
